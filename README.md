@@ -2,4 +2,4 @@
 
 Reliability block programming
 
-![My Image](img/screenshot.png)
+![My Image](public/screenshot.png)
